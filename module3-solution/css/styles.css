@@ -45,7 +45,7 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: pink;
 }
 
 #nav-list a {
@@ -56,8 +56,8 @@ body {
 }
 
 #nav-list a:hover {
-    color: #202020;
-    background-color: pink;
+    color: maroon;
+    background-color: lightgray;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
