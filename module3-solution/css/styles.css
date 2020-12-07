@@ -45,7 +45,7 @@ body {
 }
 
 #nav-list {
-    background-color: pink;
+    background-color: powderblue;
 }
 
 #nav-list a {
@@ -61,7 +61,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid pink;
 }
 
 
@@ -93,7 +93,7 @@ body {
     padding: 20px;
     background-color: powderblue;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px blue;
+    box-shadow: 0 0 80px lightblue;
 }
 
 
