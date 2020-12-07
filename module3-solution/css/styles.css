@@ -57,7 +57,7 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: pink;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -91,7 +91,7 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: powderblue;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
